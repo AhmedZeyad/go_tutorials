@@ -12,8 +12,8 @@ func main() {
 	// slices()
 	// maps()
 	// MyStructs()
-algoRuner()
-fmt.Appendln(){}talameath
+// algoRuner()
+data()
 
 }
 
